@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/DwikyXYudha">Dwiky Yudha Prasetya</a></h1>
+![Header](./github-header-image.png)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dwikyxyudha&label=Profile%20views&color=e70d2e&style=flat-square" alt="dwikyxyudha" />
+  <img src="https://komarev.com/ghpvc/?username=dwikyxyudha&label=Profile%20views&color=cc2936&style=flat-square" alt="dwikyxyudha" />
 </p>
 
 
