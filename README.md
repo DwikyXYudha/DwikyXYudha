@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-new.png)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dwikyxyudha&label=Profile%20views&color=cc2936&style=flat-square" alt="dwikyxyudha" />
